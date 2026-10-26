@@ -67,7 +67,7 @@ The manuscript also reports that the radius-2 sufficient condition certified 146
 
 ## Source note
 
-The Python files are transcriptions of the source listings in Appendix A. A handful of curly apostrophes in dictionary and index expressions were changed to ASCII single quotes so the listings parse as Python. No experiment outputs are bundled; running the scripts creates them locally.
+The Python files transcribe the source listings in Appendix A. A handful of curly apostrophes in dictionary and index expressions were changed to ASCII single quotes so the listings parse as Python. No experiment outputs are bundled; running the scripts creates them locally.
 
 ## License
 
